@@ -13570,3 +13570,8 @@ a:active {
     50% { background-color: rgba(141, 28, 213, 0.95); }
     75% { background-color: rgba(227, 240, 252, 0.95); }
 }
+
+.ctr-unavailable {
+  text-decoration-line: line-through;
+  background-color: #6c757d;
+}
